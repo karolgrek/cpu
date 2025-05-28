@@ -1,1 +1,1 @@
-# code removed due to school author rights
+## code has to be hidden due to Masaryks university author rights.
