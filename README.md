@@ -8,7 +8,7 @@ It supports basic arithmetic operations, stack manipulation, registers and I/O.
 ## Languages and Tools
 
 - **C (C99) + POSIX**  
-- **Make** (for compilation)  
+- **CMake** (for compilation)  
 - **Valgrind** (for memory correctness testing)  
 
 ---
